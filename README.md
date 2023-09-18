@@ -1,3 +1,3 @@
 # rust_guessing_game
 
-just for fun
+just for learn
